@@ -17,7 +17,7 @@ TABLE NO.
 
 # INTRODUCTION
 1.1	Overview:
-UNIVERSITY MANAGEMENT SYSTEM (UMS) is a  product which covers all aspects of Universities. UMS covers every minute aspects of a universities work flow and integrates all processes with user friendly interface. UMS is an outcome of hard work done by us in supervision of several teacher. UMS is a rare combination of experience and precision. UMS streamline path of information flow in organization by taking care of following departments:
+UNIVERSITY MANAGEMENT SYSTEM (UMS) is a  product which covers all aspects of Universities. UMS covers every minute aspects of a universities work flow and integrates all processes with user friendly interface. UMS is an outcome of hard work done by us in supervision of several teacher. UMS streamline path of information flow in organization by taking care of following departments:
 •	DepartmentFee
 •	Examination Department
 •	Attendance
@@ -28,26 +28,12 @@ UNIVERSITY MANAGEMENT SYSTEM (UMS) is a  product which covers all aspects of Uni
 •	Drive operational efficiency.
 •	Self-service systems with simple to use with little or no training.
 •	Elimination of duplicate data entry processes.
-•	Integrated with Online Application workflow with unified data model.
 •	Monitoring and decision support system.
 •	Automation of all the Academic / Examination / Administration operations.
 •	Ease and accuracy of reporting.
 
 1.3	Scope:
 This project deals with the various functioning in University management process. The main idea is to implement a proper process to system. In our existing system contains a many operations registration, student search, fees, attendance, exam records, performance of the student etc. All these activity takeout manually by administrator.
-
-
-# REQUIREMENT SPECIFICATIONS
-# Hardware Requirements :
-Processor Brand	: Intel
-Processor Type	: Core i3
-Processor Speed	: 2 GHz
-Processor Count	: 1
-RAM Size	: 2 GB
-Memory Technology	: DDR3
-Computer Memory Type	: DDR3 SDRAM
-Hard Drive Size	: 160 GB
-
 
 
 # Software Requirements :
@@ -62,19 +48,16 @@ Database connectivity	: WAMP (MYSQL Console)
 # TOOL DESCRIPTION
 # Overview of Front End
 
-An important issue for the development of a project is the selection of suitable front- end and back-end. When we decided to develop the project we went through an extensive study to determine the most suitable platform that suits the needs of the organization as well as helps in development of the project.
-The aspects of our study included the following factors. Front-end selection:
+An important issue for the development of a project is the selection of suitable front- end and back-end. Front-end selection:
 1.	It must have a graphical user interface that assists employees that are not from IT background.
 2.	Scalability and extensibility.
 3.	Flexibility.
 4.	Robustness.
-5.	According to the organization requirement and the culture.
-6.	Must provide excellent reporting features with good printing support.
-7.	Platform independent.
-8.	Easy to debug and maintain.
-9.	Event driven programming facility.
-10.	Front end must support some popular back end like MySQL.
-According to the above stated features we selected PHP and CSS as the front-end for developing.
+5.	Must provide excellent reporting features with good printing support.
+6.	Platform independent.
+7.	Easy to debug and maintain.
+8.	Front end must support some popular back end like MySQL.
+
 
 
 # About Java:
