@@ -17,7 +17,7 @@ TABLE NO.
 
 # INTRODUCTION
 1.1	Overview:
-UNIVERSITY MANAGEMENT SYSTEM (UMS) is a  product which covers all aspects of Universities, Colleges or Schools. UMS covers every minute aspects of a universities work flow and integrates all processes with user friendly interface. UMS is an outcome of hard work done by us in supervision of several teacher. UMS is a rare combination of experience and precision. UMS streamline path of information flow in organization by taking care of following departments:
+UNIVERSITY MANAGEMENT SYSTEM (UMS) is a  product which covers all aspects of Universities. UMS covers every minute aspects of a universities work flow and integrates all processes with user friendly interface. UMS is an outcome of hard work done by us in supervision of several teacher. UMS is a rare combination of experience and precision. UMS streamline path of information flow in organization by taking care of following departments:
 •	DepartmentFee
 •	Examination Department
 •	Attendance
